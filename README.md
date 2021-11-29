@@ -3,7 +3,8 @@ Please try and complete the following before next class:
 * create a new branch name it after your last name or if you are working as a team, the name of the team 
 * `git checkout -b <name of your branch`
 * create an a readme.md file explaining your difficulties and how you solved them
-At this point I don't have any difficulty.
+At this point I don't have any difficulty. At the same time I am unsure if i am doing the right thing
+
 
 ## Home Work
 * Create an S3 bucket
